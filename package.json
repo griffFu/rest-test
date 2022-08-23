@@ -1,0 +1,25 @@
+{
+  "name": "rest-test",
+  "version": "1.0.0",
+  "description": "griff rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/griffFu/rest-test.git"
+  },
+  "author": "Griffin Fulton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griffFu/rest-test/issues"
+  },
+  "homepage": "https://github.com/griffFu/rest-test#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "webpack-cli": "^4.10.0"
+  }
+}
