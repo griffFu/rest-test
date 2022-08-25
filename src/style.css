@@ -1,17 +1,22 @@
 html,body{
-    background-color: blue;
+    background-color: #E6AA68
    
     
 }
-
-
-#header{
-    background-color: red;
+#headerContainer{
+    background-color: #7FB069 ;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     
     margin: 0px;
     padding: 40px;
+}
+
+#bigHeader{
+    font-size: 2rem;
+    padding: 20px;
 }
 
 #content{
@@ -32,4 +37,9 @@ html,body{
 .aboutPar{
     font-size: 1rem;
     color: yellow;
+}
+
+
+.menuItem{
+    
 }

@@ -34,3 +34,12 @@ menuButton.onclick = function(){
 contactButton.onclick = function(){
     genContact()
 }
+
+
+
+// color pallet
+// #7FB069 - bud green
+// #FFFBBD - blond
+// #E6AA68 - fawn
+// #CA3C25 - vermiliion
+// 1D1A05  - black chocolate
